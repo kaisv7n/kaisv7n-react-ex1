@@ -1,1 +1,1 @@
-# Huong dan Git co ban
+# Ví dụ cơ bản sử dụng Reactjs với Webpack, Babel, Redux
